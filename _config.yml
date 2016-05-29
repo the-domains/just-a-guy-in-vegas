@@ -1,14 +1,14 @@
 color:
   brandColors:
-    - '#F2F1F6'
-    - '#DCDCE4'
-    - '#000100'
-    - '#E0B099'
-    - '#37354A'
-  brandStrength: 1
-  lightness: 0.668617
-  rhythmicContrast: 0.646115
-  saturation: 0.733953
-layout_spectrum: 0.786318
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+  brandStrength: 0.14084149268455803
+  lightness: 0.5123720217961818
+  rhythmicContrast: 0.7742777573876083
+  saturation: 0.8826792102772743
+layout_spectrum: 0.9535673551727086
 name: Just a Guy in Vegas
-typography_spectrum: 0.388514
+typography_spectrum: 0.6978370582219213
